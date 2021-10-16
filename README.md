@@ -15,7 +15,7 @@
     <p align="center"><em> New In Coding Field(Not Really TBH), Currently Learning Full Stack Web Development.</em></p>
     <p align="center"><em>Contact me here - </em></p>
     <p align="center"> <a href="https://discord.com/users/850659765313994792" target="_blank"><img src="discord.png" height="40px" width="40px"></a> <a
-            href="https://www.instagram.com/piysh_2115"><img src="instagram.png" height="40px" width="40px"></p></a>
+            href="https://www.instagram.com/piysh_2115" target="_blank"><img src="instagram.png" height="40px" width="40px"></p></a>
 
 </body>
 
